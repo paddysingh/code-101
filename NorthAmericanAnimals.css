@@ -1,0 +1,98 @@
+html{
+    height: 100%
+}
+
+body {
+margin: 0;
+height:100%;
+font-family: 'Franklin Gothic Medium';
+
+}
+
+a {
+    color: #fff;
+
+
+}
+
+
+header {
+    padding: 10px;
+    background: #888;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background: #444; 
+    text-align: center;
+
+}
+
+nav ul {
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+nav ul li {
+    
+    margin: 20px;
+    font-size: 24px;
+
+}
+
+section {
+    width: 90%;
+    outline: dotted 1px orange;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 800px;
+    
+}
+
+footer {
+    padding: 10px;
+    background: lightgrey;
+    text-align: center;
+
+}
+
+img {
+    height: 150px;
+    width: 200px;
+
+}
+
+.wolf {
+    text-align: center;
+}
+
+.wolf a {
+    display: block;
+   
+}
+
+.ew {
+    display: inline-block;
+
+}
+
+.armadillo {
+    text-align:center;
+}
+
+.armadillo img {
+    display: inline;
+    text-align: center;
+}
+
+.armadillo a {
+    display: block;
+}
+
+.ew a {
+    position: relative;
+    bottom: 63px;
+    margin: 5px;
+}
